@@ -1,0 +1,20 @@
+body {
+    background-color: grey;
+}
+.fa{
+    color: skyblue;
+}
+h5{
+    color: orange;
+}
+a{
+    border-bottom: 1px red ;
+}
+.box-part{
+    background-color: white;
+    margin: 20Px 0px;
+    padding: 40px 0px;
+}  
+.text{
+    margin: 10px 0px;
+}
